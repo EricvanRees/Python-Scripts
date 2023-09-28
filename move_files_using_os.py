@@ -1,5 +1,4 @@
-"""This script automates moving files from one folder to another, by tagging the current date to the file name 
-and moving the file to a different folder if it has been modified today."""
+"""This script automates moving files from one folder to another, by tagging the current date to the file name and moving the file to a different folder if it has been modified today."""
 
 import os
 import datetime
